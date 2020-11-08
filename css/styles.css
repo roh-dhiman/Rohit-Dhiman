@@ -53,16 +53,17 @@ h3 {
 }
 
 .bottom-cloud {
-    position: absolute;
+    position: relative;
     block-size: 100px;
-    bottom: 550px;
-    left: 550px;
+    bottom: 800px;
+    left: 180px;
 }
 
 .mountain {
     block-size: 600px;
     width: 700px;
     position: relative;
+    left: -50px;
     bottom: 56px;
 }
 
